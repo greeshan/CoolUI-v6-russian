@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time">
+        <item>Нет</item>
+        <item>Через 10 минут</item>
+        <item>Через 30 минут</item>
+        <item>Через 60 минут</item>
+        <item>Через 90 минут</item>
+    </string-array>
+    <string-array name="time_value">
+        <item>0</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="mmmusic_ringtone_list">
+        <item>Мелодия SIM1</item>
+        <item>Мелодия SIM2</item>
+    </string-array>
+    <string-array name="music_downloadpath_index">
+        <item>Внутр.хранилище</item>
+        <item>SD-карта</item>
+    </string-array>
+</resources>

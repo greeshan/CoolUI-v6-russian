@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="password_hint_entries">
+        <item>Моя начальная школа?</item>
+        <item>Моя средняя школа?</item>
+        <item>Мой универ?</item>
+        <item>Мой любимый спорт?</item>
+        <item>Польз. вопрос</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="smsmms_default_smiley_names">
+        <item>Счастливый</item>
+        <item>Грустный</item>
+        <item>Подмигивающий</item>
+        <item>Высунутый язык</item>
+        <item>Удивлeнный</item>
+        <item>Поцелуй</item>
+        <item>Вопящий</item>
+        <item>Отлично</item>
+        <item>Деньги во рту</item>
+        <item>Нога во рту</item>
+        <item>Растерянный</item>
+        <item>Ангел</item>
+        <item>Нерешительный</item>
+        <item>Кричащий</item>
+        <item>Рот закрыт</item>
+        <item>Смеющийся</item>
+        <item>Смущенный</item>
+        <item>Сердце</item>
+        <item>Бешеный</item>
+        <item>Ухмылка</item>
+        <item>Покерфейс</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="smsmms_array_mms_download_retry_times">
+        <item>Нет</item>
+        <item>1 раз</item>
+        <item>2 раз</item>
+        <item>3 раз</item>
+    </string-array>
+    <string-array name="smsmms_array_mms_validate_gsm">
+        <item>1 час</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+        <item>Максимум</item>
+    </string-array>
+    <string-array name="smsmms_array_mms_validate_cdma">
+        <item>1 час</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+        <item>Определено оператором</item>
+    </string-array>
+    <string-array name="smsmms_array_mms_send_time">
+        <item>Мгновенно</item>
+        <item>1 час</item>
+        <item>8 часов</item>
+        <item>Максимум</item>
+    </string-array>
+    <string-array name="smsmms_array_mms_prior">
+        <item>Низкий</item>
+        <item>Средний</item>
+        <item>Высокий</item>
+    </string-array>
+    <string-array name="smsmms_array_sms_setting_store">
+        <item>Входящие</item>
+        <item>Карта</item>
+    </string-array>
+    <string-array name="smsmms_array_sms_setting_store_security">
+        <item>Входящие</item>
+    </string-array>
+    <string-array name="smsmms_array_sms_setting_validate">
+        <item>1 час</item>
+        <item>6 часов</item>
+        <item>12 часов</item>
+        <item>1 день</item>
+        <item>1 неделя</item>
+        <item>Максимум</item>
+    </string-array>
+    <string-array name="smsmms_array_sms_setting_prior">
+        <item>Нормальный</item>
+        <item>Взаимный</item>
+        <item>Приоритетный</item>
+        <item>Срочный</item>
+    </string-array>
+    <string-array name="smsmms_array_sms_setting_mode">
+        <item>Режим папок</item>
+        <item>Режим чата</item>
+    </string-array>
+    <string-array name="smsmms_array_send_network_cdma">
+        <item>Ручной выбор</item>
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="smsmms_array_send_network_gsm">
+        <item>Ручной выбор</item>
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="smsmms_select_dialog_items">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>Другое</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="smsmms_prefEntries_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только в беззвучном</item>
+        <item>Никогда</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="week_strings">
+        <item>" Вс "</item>
+        <item>" Пн "</item>
+        <item>" Вт "</item>
+        <item>" Ср "</item>
+        <item>" Чт "</item>
+        <item>" Пт "</item>
+        <item>" Сб "</item>
+    </string-array>
+    <string-array name="weeks_string">
+        <item>" "</item>
+        <item>" Вс "</item>
+        <item>" Пн "</item>
+        <item>" Вт "</item>
+        <item>" Ср "</item>
+        <item>" Чт "</item>
+        <item>" Пт "</item>
+        <item>" Сб "</item>
+    </string-array>
+</resources>

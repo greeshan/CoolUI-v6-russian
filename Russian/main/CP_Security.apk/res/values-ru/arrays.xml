@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="security_auto_adjust_frequency">
+         <item>Каждый день</item>
+         <item>Каждые 3 дня</item>
+         <item>Каждую неделю</item>
+         <item>Выключено</item>
+    </string-array>
+    <string-array name="security_question_items">
+        <item>Номер начальной школы</item>
+        <item>Номер средней школы</item>
+        <item>Название ВУЗа</item>
+        <item>Любимый спорт</item>
+        <item>Пользовательская подсказка</item>
+    </string-array>
+    <string-array name="security_relate_pass_find_items">
+        <item>Связанный номер телефона</item>
+        <item>Вопрос-подсказка</item>
+    </string-array>
+    <string-array name="security_sim_where">
+        <item>Трафик SIM1</item>
+        <item>Трафик SIM2</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="adjust_time">
+         <item>Каждый день</item>
+         <item>Каждые 3 дня</item>
+         <item>Каждую неделю</item>
+         <item>Каждые 15 дней</item>
+    </string-array>
+    <string-array name="adjust_size">
+        <item>50M</item>
+        <item>100M</item>
+        <item>300M</item>
+        <item>500M</item>
+    </string-array>
+    <string-array name="adjust_clear">
+        <item>1 час</item>
+        <item>3 часа</item>
+        <item>5 часов</item>
+        <item>7 часов</item>
+    </string-array>
+    <string-array name="adjust_day">
+         <item>Каждый день</item>
+         <item>Каждые 3 дня</item>
+         <item>Каждую неделю</item>
+         <item>Каждые 15 дней</item>
+    </string-array>
+    <string-array name="security_fake_password_type">
+        <item>Нет</item>
+        <item>Любой символ</item>
+        <item>Пользовательский</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="security_permission_multioperations">
+        <item>Разрешить все</item>
+        <item>Уведомлять все</item>
+        <item>Запретить все</item>
+    </string-array>
+    <string-array name="security_permission_sigleoperations">
+        <item>Разрешить</item>
+        <item>Запретить</item>
+        <item>Уведомлять</item>
+    </string-array>
+    <string-array name="security_adv_multioperations">
+        <item>Разрешить все</item>
+        <item>Запретить все</item>
+    </string-array>
+    <string-array name="security_password_look_for_method">
+        <item>Телефонный номер</item>
+        <item>Адрес эл. почты</item>
+        <item>Подсказка</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="security_attach">
+         <item> Цзянсу</item>
+         <item> Фуцзянь</item>
+         <item> Цзилинь</item>
+         <item> Чжэцзян</item>
+         <item> Хайнань</item>
+         <item> Хунань</item>
+         <item> Шаньси</item>
+         <item> Внутренняя Монголия</item>
+         <item> Хубэй</item>
+         <item> Хэбэй</item>
+         <item> Тяньцзинь</item>
+         <item> Шэньси</item>
+         <item> Ляонин</item>
+         <item> Пекин</item>
+         <item> Шанхай</item>
+         <item> Гуйчжоу</item>
+         <item> Гуандун</item>
+         <item> Чунцин</item>
+         <item> Аньхой</item>
+         <item> Ганьсу</item>
+         <item> Гуанси</item>
+         <item> Хэнань</item>
+         <item> Хэйлунцзян</item>
+         <item> Цзянси</item>
+         <item> Нинся</item>
+         <item> Цинхай</item>
+         <item> Сычуань</item>
+         <item> Шаньдун</item>
+         <item> Синьцзян</item>
+         <item> Юньнань</item>
+    </string-array>
+    <string-array name="security_carrier">
+         <item>China Mobile</item>
+         <item>China Telecom</item>
+         <item>China Unicom</item>
+    </string-array>
+    <string-array name="security_brand1">
+        <item>GSM</item>
+        <item>Динамич.</item>
+        <item>Просмотр</item>
+    </string-array>
+    <string-array name="security_brand2">
+        <item>2G</item>
+        <item>3G</item>
+    </string-array>
+    <string-array name="security_brand3">
+        <item>China Telecom</item>
+    </string-array>
+    <string-array name="security_help_item_key">
+        <item>onekeyimprove</item>
+        <item>passwordmanager</item>
+        <item>floatwindow</item>
+        <item>cleanaccelerate</item>
+        <item>dataprotection</item>
+        <item>kavas</item>
+        <item>privatespace</item>
+        <item>savepower</item>
+        <item>viruskill</item>
+        <item>flowmonitor</item>
+        <item>advertisementblock</item>
+        <item>againstguard</item>
+        <item>screenpassword</item>
+        <item>softmanager</item>
+        <item>moneyprotect</item>
+    </string-array>
+    <string-array name="security_help_item">
+        <item>一键加速优化</item>
+        <item>酷管家密码管理</item>
+        <item>桌面悬浮窗口</item>
+        <item>清理加速</item>
+        <item>权限控制</item>
+        <item>骚扰拦截</item>
+        <item>隐私空间</item>
+        <item>省电管理</item>
+        <item>病毒查杀</item>
+        <item>流量监控</item>
+        <item>广告通知拦截</item>
+        <item>云防盗</item>
+        <item>屏幕密码</item>
+        <item>软件管理</item>
+        <item>防扣费</item>
+    </string-array>
+    <string-array name="security_help_subitem_onekeyimprove">
+        <item>1.点击一键加速优化按钮，酷管家自动进行体检和优化加速</item>
+        <item>2.点击返回按钮，回到酷管家主界面</item>
+    </string-array>
+    <string-array name="security_help_subitem_passwordmanager">
+        <item>1.点击酷管家菜单，选择酷管家设置</item>
+        <item>2.首次使用酷管家，点击创建酷管家密码，输入创建密码所需信息，完成创建</item>
+        <item>3.点击更改酷管家密码、更改密码找回方式和清除酷管家密码，输入酷管家密码，完成密码验证</item>
+        <item>4.完成更改酷管家密码、更改密码找回方式和清除酷管家密码</item>
+    </string-array>
+    <string-array name="security_help_subitem_floatwindow">
+        <item>1.打开酷管家设置，开启桌面悬浮窗显示</item>
+        <item>2.点击展开桌面悬浮窗口</item>
+        <item>3.点击一键加速圆球，加速完毕自动收回</item>
+        <item>4.点击桌面悬浮窗口的酷管家图标和设置图标，进入对应界面</item>
+    </string-array>
+    <string-array name="security_help_subitem_cleanaccelerate">
+        <item>1.点击酷管家主界面的清理加速</item>
+        <item>2.点击一键加速，进行手机加速</item>
+        <item>3.点击运行程序，进行一键清理</item>
+        <item>4.点击应用启动管理，设置开机自启和后台自启</item>
+        <item>5.点击垃圾清理，点击一键清理，清理系统的垃圾缓存</item>
+    </string-array>
+    <string-array name="security_help_subitem_dataprotection">
+        <item>1.点击权限控制，设置受监控的应用数据权限</item>
+        <item>2.点击防跟踪，点击开启防跟踪设置按钮，设置受监控的应用地理位置权限</item>
+        <item>3.点击防窃听，启用防窃听功能</item>
+        <item>4.点击一键数据保护，点击开启进入，点击取消则不进入</item>
+        <item>5.点击退出一键数据保护，则退出一键数据保护模式</item>
+    </string-array>
+    <string-array name="security_help_subitem_kavas">
+        <item>1.点击防打扰设置，开启防打扰模式，按照提示进行操作</item>
+        <item>2.点击黑名单，添加所需的黑名单</item>
+        <item>3.点击VIP名单，添加所需的VIP名单</item>
+        <item>4.点击关键词，添加所需的关键词</item>
+        <item>5.点击云举报，举报骚扰电话和举报垃圾短信</item>
+    </string-array>
+    <string-array name="security_help_subitem_privatespace">
+        <item>1.点击文件安全箱，输入酷管家密码后，按照提示进行操作</item>
+        <item>2.点击应用程序密码保护，对系统应用和个人应用进行保护</item>
+        <item>3.点击密码保管箱，点击开启，设置密码保管箱密码，添加所需保护的账号</item>
+        <item>4.点击浮动窗口控制，按照提示进行操作</item>
+        <item>5.点击隐藏历史任务开关</item>
+    </string-array>
+    <string-array name="security_help_subitem_savepower">
+        <item>1.点击省电管理，按照提示对快捷省电进行操作</item>
+        <item>2.点击高级省电，按照提示对高级省电进行操作</item>
+        <item>3.点击应用耗电，点击一键优化，阻止后台主动启动</item>
+    </string-array>
+    <string-array name="security_help_subitem_viruskill">
+        <item>1.点击快速扫描，点击完成返回主界面</item>
+        <item>2.点击全盘查杀，点击完成返回主界面</item>
+        <item>3.点击病毒库更新</item>
+        <item>4.点击安全日志，查看安全扫描记录</item>
+    </string-array>
+    <string-array name="security_help_subitem_flowmonitor">
+        <item>1.点击设置套餐流量，按照提示进行流量设置操作</item>
+        <item>2.点击设置，开启流量监控</item>
+        <item>3.点击上网控制，对应用的2G/3G/4G、WLAN进行操作</item>
+    </string-array>
+    <string-array name="security_help_subitem_advertisementblock">
+        <item>1.点击广告通知拦截，扫描软件</item>
+        <item>2.点击弹出通知的应用，按照提示进行操作</item>
+        <item>3.点击含有广告的应用，按照提示进行操作</item>
+        <item>4.点击再次检测</item>
+        <item>5.点击设置，开启通知面板快捷操作</item>
+    </string-array>
+    <string-array name="security_help_subitem_againstguard">
+        <item>1.点击开启防盗开关，绑定酷云账号</item>
+        <item>2.点击绑定的手机，进入远程控制界面</item>
+        <item>3.点击短信控制，向被盗手机发送防盗指令远程控制被盗手机</item>
+        <item>4.点击标记被盗，可以标记被盗的手机</item>
+        <item>5.点击取证照片，查看当前手机型号拍照记录</item>
+    </string-array>
+    <string-array name="security_help_subitem_screenpassword">
+        <item>1.点击屏幕解锁密码保护，按照提示进行操作</item>
+    </string-array>
+    <string-array name="security_help_subitem_softmanager">
+        <item>1.点击软件管理，进入软件卸载主界面，按照提示进行操作</item>
+        <item>2.点击安装包管理</item>
+        <item>3.点击软件搬家，手机空间和SD卡空间的软件搬家</item>
+    </string-array>
+    <string-array name="security_help_subitem_moneyprotect">
+        <item>1.点击话费余额查询，按照提示进行操作</item>
+        <item>2.点击套餐流量查询，按照提示进行操作</item>
+        <item>3.点击扣费查询，扫描疑似扣费短信</item>
+        <item>4.点击防恶意扣费，按照提示进行操作</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+    <array name="security_blacklist_default_forall_dataprotect" />
+    <string-array name="security_intercepted_rule">
+        <item>Не задано</item>
+        <item>Перехват вызовов</item>
+        <item>Перехват SMS/MMS</item>
+        <item>Перехват вызовов и SMS/MMS</item>
+    </string-array>
+    <string-array name="security_append_way">
+        <item>Вручную</item>
+        <item>Из Контактов</item>
+        <item>Из Журнала вызовов</item>
+        <item>Из SMS/MMS</item>
+    </string-array>
+    <string-array name="security_intercepted_reason">
+        <item>Черный список</item>
+        <item>Не в белом списке</item>
+        <item>Нет в Контактах</item>
+        <item>Неиз. номера </item>
+        <item>Без номера</item>
+        <item>Все вызовы</item>
+        <item>По секциям номера</item>
+        <item>По регионам</item>
+    </string-array>
+    <string-array name="security_handle_after_interception">
+        <item>Повесить трубку</item>
+        <item>Без мелодии и вибрации</item>
+        <item>Номер занят</item>
+        <item>Номер не существует</item>
+        <item>Телефон выключен</item>
+        <item>Номер не обслуживается</item>
+        <item>Телефон вне зоны обслуживания</item>
+        <item>Проиграть запись</item>
+        <item>Просьба оставить сообщение</item>
+    </string-array>
+    <string-array name="security_intercepted_mode">
+        <item>Автоперехват</item>
+        <item>Черный список</item>
+        <item>Белый список</item>
+        <item>Контакты</item>
+        <item>Перехватывать все</item>
+        <item>Пользовательский режим</item>
+    </string-array>
+    <string-array name="security_time_intercepted_mode">
+        <item>Только белый список</item>
+        <item>Только Контакты</item>
+        <item>Перехватывать все</item>
+        <item>Пользов. режим</item>
+    </string-array>
+    <string-array name="security_intercepted_mode_tips">
+        <item>Переключение в режим "Принимать все"</item>
+        <item>Переключение в режим "Черный список"</item>
+        <item>Переключение в режим "Белый список"</item>
+        <item>Переключение в режим "Контакты"</item>
+        <item>Переключение в пользовательский режим</item>
+    </string-array>
+    <string-array name="security_time_intercepted_mode_tips">
+        <item>Переключение в режим "Черный список"</item>
+        <item>Переключение в режим "Белый список"</item>
+        <item>Переключение в режим "Контакты"</item>
+        <item>Переключение в пользовательский режим</item>
+    </string-array>
+    <string-array name="security_intercepted_mode_details">
+        <item>Принимать все</item>
+        <item>Черный список</item>
+        <item>Белый список</item>
+        <item>Контакты</item>
+        <item>Пользовательский режим </item>
+    </string-array>
+    <string-array name="security_time_intercepted_mode_details">
+        <item>Черный список</item>
+        <item>Белый список</item>
+        <item>Контакты</item>
+        <item>Пользовательский режим </item>
+    </string-array>
+    <string-array name="security_intercepted_phone_handle_way">
+        <item>Повесить трубку</item>
+        <item>Занято</item>
+        <item>Не существует</item>
+        <item>Выключен</item>
+        <item>Вне сервиса</item>
+        <item>Проиграть запись</item>
+        <item>Просьба оставить сообщение</item>
+    </string-array>
+    <string-array name="security_record_type">
+        <item>Недоступен</item>
+        <item>Занято</item>
+        <item>Не существует</item>
+        <item>Выключен</item>
+        <item>Вне сервиса</item>
+        <item>Польз.№1 </item>
+        <item>Польз.№2</item>
+        <item>Польз.№3</item>
+        <item>Польз.№4</item>
+    </string-array>
+    <string-array name="security_selfDef">
+        <item>Черный список</item>
+        <item>Белый список</item>
+        <item>Вызовы контактов</item>
+        <item>SMS/MMS контактов</item>
+        <item>Вызовы от неизв. номеров </item>
+        <item>SMS/MMS от неизв. номеров </item>
+        <item>Без номера </item>
+    </string-array>
+    <string-array name="security_add_black_notify">
+        <item>Не задано</item>
+        <item>Все</item>
+        <item>Вызов меньше 5 секунд</item>
+        <item>Вызов меньше 15 секунд</item>
+        <item>Вызов меньше 30 секунд</item>
+    </string-array>
+    <string-array name="security_add_black_message">
+        <item>Добавить в черный список?</item>
+        <item>Добавить в черный список? Вызов меньше 5 секунд</item>
+        <item>Добавить в черный список? Вызов меньше 15 секунд </item>
+        <item>Добавить в черный список? Вызов меньше 30 секунд</item>
+        <item>Добавить в черный список? Вызов меньше 1 секунды </item>
+    </string-array>
+    <string-array name="security_black_handle">
+        <item>Повесить трубку</item>
+        <item>Без мелодии и вибрации (экран вкл.)</item>
+        <item>Без мелодии и вибрации (экран выкл.)</item>
+        <item>Номер занят</item>
+        <item>Номер не существует</item>
+        <item>Телефон выключен</item>
+        <item>Телефон вне сервиса</item>
+        <item>Телефон заблокирован</item>
+        <item>Проиграть запись</item>
+        <item>Просьба оставить сообщение</item>
+    </string-array>
+    <string-array name="security_all_handle">
+        <item>Повесить трубку</item>
+        <item>Без мелодии и вибрации (экран вкл.)</item>
+        <item>Без мелодии и вибрации (экран выкл.)</item>
+        <item>Номер занят</item>
+        <item>Номер не существует</item>
+        <item>Телефон выключен</item>
+        <item>Телефон вне сервиса</item>
+        <item>Телефон заблокирован</item>
+        <item>Проиграть запись</item>
+        <item>Просьба оставить сообщение</item>
+    </string-array>
+    <string-array name="security_all_intercepted_type">
+        <item>Перехват вызовов</item>
+        <item>Перехват SMS/MMS</item>
+        <item>Перехват вызовов и SMS/MMS</item>
+    </string-array>
+    <string-array name="security_block_reason">
+        <item>Черный список</item>
+        <item>По секциям номера</item>
+        <item>По регионам</item>
+        <item>Не в белом списке</item>
+        <item>Не прямой номер</item>
+        <item>Все вызовы</item>
+        <item>Без номера</item>
+        <item>Ключевое слово</item>
+        <item>Один гудок</item>
+        <item>Контакты</item>
+    </string-array>
+    <string-array name="security_all_province">
+         <item>Пекин</item>
+         <item>Шанхай</item>
+         <item>Тяньцзинь</item>
+         <item>Чунцин</item>
+         <item>Аньхой</item>
+         <item>Фуцзянь</item>
+         <item>Ганьсу</item>
+         <item>Гуандун</item>
+         <item>Гуанси</item>
+         <item>Гуйчжоу</item>
+         <item>Хайнань</item>
+         <item>Хэбэй</item>
+         <item>Хэнань</item>
+         <item>Хэйлунцзян</item>
+         <item>Хубэй</item>
+         <item>Хунань</item>
+         <item>Цзилинь</item>
+         <item>Цзянсу</item>
+         <item>Цзянси</item>
+         <item>Ляонин</item>
+         <item>Внутренняя</item>
+         <item>Нинся</item>
+         <item>Цинхай</item>
+         <item>Шаньдун</item>
+         <item>Шаньси</item>
+         <item>Шэньси</item>
+         <item>Сычуань</item>
+         <item>Тибет</item>
+         <item>Синьцзян</item>
+         <item>Юньнань</item>
+         <item>Чжэцзян</item>
+         <item>Гонконг</item>
+         <item>Макао</item>
+         <item>Тайвань</item>
+    </string-array>
+    <string-array name="security_anhui_province">
+ <item>Выберите область</item>
+<item>Хэфэй</item>
+<item>Аньцин</item>
+<item>Бэнбу</item>
+<item>Чаоху</item>
+<item>Чичжоу</item>
+<item>Чучжоу</item>
+<item>Фуян / Бочжоу</item>
+<item>Хуайбэй</item>
+<item>Хуайнань</item>
+<item>Хуаншань</item>
+<item>Луань</item>
+<item>Мааньшань</item>
+<item>Сучжоу</item>
+<item>Тонглин</item>
+<item>Уху</item>
+<item>Хуаченг</item>
+    </string-array>
+    <string-array name="security_fujian_province">
+<item>Выберите область</item>
+<item>Фучжоу</item>
+<item>Лунянь</item>
+<item>Наньпин</item>
+<item>Ниндэ</item>
+<item>Путянь</item>
+<item>Цюаньчжоу</item>
+<item>Саньмин</item>
+<item>Сямэнь</item>
+<item>Чжанчжоу</item>
+    </string-array>
+    <string-array name="security_gansu_province">
+         <item>Выберите область</item>
+         <item>Мэриленд</item>
+         <item>Серебро</item>
+         <item>Вингси</item>
+         <item>Ганнан</item>
+         <item>Цзяюйгуань / Цзюцюань</item>
+         <item>Цзиньчан / увэй</item>
+         <item>Линься</item>
+         <item>Ганьсу</item>
+         <item>Пинглиан</item>
+         <item>Квиеган</item>
+         <item>Тяньшуй</item>
+         <item>Чжанъе</item>
+    </string-array>
+    <string-array name="security_guangdong_province">
+<item>Выберите область</item>
+<item>Гуанчжоу</item>
+<item>Чаочжоу</item>
+<item>Дунгуань</item>
+<item>Фошань</item>
+<item>Хэюань</item>
+<item>Хуэйчжоу</item>
+<item>Цзянмэнь</item>
+<item>Цзеян</item>
+<item>Маомин</item>
+<item>Мэйчжоу</item>
+<item>Цинюань</item>
+<item>Шаньтоу</item>
+<item>Шаньвэй</item>
+<item>Шаогуань</item>
+<item>Шэньчжэнь</item>
+<item>Янцзян</item>
+<item>Юньфу</item>
+<item>Чжаньцзян</item>
+<item>Чжаоцин</item>
+<item>Чжуншань</item>
+<item>Чжухай</item>
+    </string-array>
+    <string-array name="security_guangxi_province">
+<item>Выберите область</item>
+<item>Наньнин /</item>
+<item>Боуза</item>
+<item>Северная</item>
+<item>Фанчэнган</item>
+<item>Юлин</item>
+<item>Гуйлинь</item>
+<item>Хеши</item>
+<item>Хэчжоу</item>
+<item>Лючжоу</item>
+<item>Циньчжоу</item>
+    </string-array>
+    <string-array name="security_guizhou_province">
+        <item>Выберите область</item>
+        <item>贵阳</item>
+        <item>安顺</item>
+        <item>毕节</item>
+        <item>六盘水</item>
+        <item>黔东南/凯里</item>
+        <item>黔南/都匀</item>
+        <item>黔西南/兴义</item>
+        <item>铜仁</item>
+        <item>遵义</item>
+    </string-array>
+    <string-array name="security_hainan_province">
+        <item>Выберите область</item>
+        <item>海口/三亚</item>
+    </string-array>
+    <string-array name="security_hebei_province">
+        <item>Выберите область</item>
+        <item>石家庄</item>
+        <item>保定</item>
+        <item>沧州</item>
+        <item>承德</item>
+        <item>邯郸</item>
+        <item>衡水</item>
+        <item>廊坊</item>
+        <item>秦皇岛</item>
+        <item>唐山</item>
+        <item>邢台</item>
+        <item>张家口</item>
+    </string-array>
+    <string-array name="security_henan_province">
+        <item>Выберите область</item>
+        <item>郑州</item>
+        <item>安阳</item>
+        <item>鹤壁</item>
+        <item>焦作/济源</item>
+        <item>开封</item>
+        <item>洛阳</item>
+        <item>漯河</item>
+        <item>南阳</item>
+        <item>平顶山</item>
+        <item>濮阳</item>
+        <item>三门峡</item>
+        <item>商丘</item>
+        <item>新乡</item>
+        <item>信阳/潢川</item>
+        <item>许昌</item>
+        <item>周口</item>
+        <item>驻马店</item>
+    </string-array>
+    <string-array name="security_heilongjiang_province">
+        <item>Выберите область</item>
+        <item>哈尔滨</item>
+        <item>大庆</item>
+        <item>大兴安岭</item>
+        <item>鹤岗</item>
+        <item>黑河</item>
+        <item>鸡西</item>
+        <item>佳木斯</item>
+        <item>牡丹江</item>
+        <item>七台河</item>
+        <item>齐齐哈尔</item>
+        <item>双鸭山</item>
+        <item>绥化</item>
+        <item>伊春</item>
+    </string-array>
+    <string-array name="security_hubei_province">
+        <item>Выберите область</item>
+        <item>武汉</item>
+        <item>鄂州</item>
+        <item>恩施</item>
+        <item>黄冈</item>
+        <item>黄石</item>
+        <item>荆门</item>
+        <item>荆州</item>
+        <item>汉江/仙桃</item>
+        <item>十堰</item>
+        <item>随州</item>
+        <item>咸宁</item>
+        <item>襄阳/襄樊</item>
+        <item>孝感</item>
+        <item>宜昌</item>
+    </string-array>
+    <string-array name="security_hunan_province">
+        <item>Выберите область</item>
+        <item>长沙/株洲/湘潭</item>
+        <item>常德</item>
+        <item>郴州</item>
+        <item>衡阳</item>
+        <item>怀化</item>
+        <item>娄底</item>
+        <item>邵阳</item>
+        <item>湘西/吉首</item>
+        <item>益阳</item>
+        <item>永州</item>
+        <item>岳阳</item>
+        <item>张家界</item>
+    </string-array>
+    <string-array name="security_jilin_province">
+        <item>Выберите область</item>
+        <item>长春</item>
+        <item>白城</item>
+        <item>白山</item>
+        <item>吉林</item>
+        <item>辽源</item>
+        <item>四平</item>
+        <item>松原</item>
+        <item>通化/梅河口</item>
+        <item>延边/延吉/珲春</item>
+    </string-array>
+    <string-array name="security_jiangsu_province">
+        <item>Выберите область</item>
+        <item>南京</item>
+        <item>常州</item>
+        <item>淮安</item>
+        <item>连云港</item>
+        <item>南通</item>
+        <item>宿迁</item>
+        <item>宿州</item>
+        <item>泰州</item>
+        <item>无锡</item>
+        <item>徐州</item>
+        <item>盐城</item>
+        <item>扬州</item>
+        <item>镇江</item>
+    </string-array>
+    <string-array name="security_jiangxi_province">
+        <item>Выберите область</item>
+        <item>南昌</item>
+        <item>抚州</item>
+        <item>赣州</item>
+        <item>吉安</item>
+        <item>景德镇</item>
+        <item>九江</item>
+        <item>萍乡</item>
+        <item>上饶</item>
+        <item>新余</item>
+        <item>宜春</item>
+        <item>鹰潭</item>
+    </string-array>
+    <string-array name="security_liaoning_province">
+        <item>Выберите область</item>
+        <item>沈阳/铁岭/抚顺</item>
+        <item>鞍山</item>
+        <item>本溪</item>
+        <item>朝阳</item>
+        <item>大连</item>
+        <item>丹东</item>
+        <item>阜新</item>
+        <item>葫芦岛</item>
+        <item>锦州</item>
+        <item>辽阳</item>
+        <item>盘锦</item>
+        <item>营口</item>
+    </string-array>
+    <string-array name="security_neimenggu_province">
+        <item>Выберите область</item>
+        <item>呼和浩特</item>
+        <item>阿拉善盟</item>
+        <item>巴彦淖尔/临河</item>
+        <item>包头</item>
+        <item>赤峰</item>
+        <item>鄂尔多斯</item>
+        <item>呼伦贝尔/海拉尔</item>
+        <item>通辽</item>
+        <item>乌海</item>
+        <item>乌兰察布/集宁</item>
+        <item>锡林郭勒盟/锡林浩特</item>
+        <item>兴安盟/乌兰浩特</item>
+    </string-array>
+    <string-array name="security_ningxia_province">
+        <item>Выберите область</item>
+        <item>银川</item>
+        <item>固原</item>
+        <item>石嘴山</item>
+        <item>吴忠</item>
+        <item>中卫</item>
+    </string-array>
+    <string-array name="security_qinghai_province">
+        <item>Выберите область</item>
+        <item>西宁</item>
+        <item>格尔木</item>
+        <item>果洛</item>
+        <item>海北/海晏</item>
+        <item>海东</item>
+        <item>海南</item>
+        <item>海西/德令哈</item>
+        <item>黄南</item>
+        <item>玉树</item>
+    </string-array>
+    <string-array name="security_shandong_province">
+        <item>Выберите область</item>
+        <item>济南</item>
+        <item>滨州</item>
+        <item>德州</item>
+        <item>东营</item>
+        <item>菏泽</item>
+        <item>济宁</item>
+        <item>莱芜</item>
+        <item>聊城</item>
+        <item>临沂</item>
+        <item>青岛</item>
+        <item>日照</item>
+        <item>泰安</item>
+        <item>威海</item>
+        <item>潍坊</item>
+        <item>烟台</item>
+        <item>枣庄</item>
+        <item>淄博</item>
+    </string-array>
+    <string-array name="security_shanxi_province">
+        <item>Выберите область</item>
+        <item>太原</item>
+        <item>长治</item>
+        <item>大同</item>
+        <item>晋城</item>
+        <item>晋中</item>
+        <item>临汾</item>
+        <item>吕梁</item>
+        <item>朔州</item>
+        <item>忻州</item>
+        <item>阳泉</item>
+        <item>运城</item>
+    </string-array>
+    <string-array name="security_shanxi_two_province">
+        <item>Выберите область</item>
+        <item>西安/咸阳</item>
+        <item>安康</item>
+        <item>宝鸡</item>
+        <item>汉中</item>
+        <item>商洛</item>
+        <item>铜川</item>
+        <item>渭南</item>
+        <item>延安</item>
+        <item>榆林</item>
+    </string-array>
+    <string-array name="security_sichuan_province">
+        <item>Выберите область</item>
+        <item>成都/眉山/资阳</item>
+        <item>阿坝</item>
+        <item>巴中</item>
+        <item>达州</item>
+        <item>德阳</item>
+        <item>甘孜</item>
+        <item>广安</item>
+        <item>广元</item>
+        <item>乐山</item>
+        <item>凉山/西昌</item>
+        <item>泸州</item>
+        <item>绵阳</item>
+        <item>南充</item>
+        <item>内江</item>
+        <item>攀枝花</item>
+        <item>遂宁</item>
+        <item>雅安</item>
+        <item>宜宾</item>
+        <item>自贡</item>
+    </string-array>
+    <string-array name="security_xizang_province">
+        <item>Выберите область</item>
+        <item>拉萨</item>
+        <item>阿里</item>
+        <item>昌都</item>
+        <item>林芝</item>
+        <item>那曲</item>
+        <item>日喀则</item>
+        <item>山南</item>
+    </string-array>
+    <string-array name="security_xinjiang_province">
+        <item>Выберите область</item>
+        <item>乌鲁木齐</item>
+        <item>阿克苏</item>
+        <item>阿勒泰</item>
+        <item>巴音郭楞/库尔勒</item>
+        <item>博尔塔拉/博乐</item>
+        <item>昌吉</item>
+        <item>哈密</item>
+        <item>和田</item>
+        <item>喀什</item>
+        <item>克拉玛依</item>
+        <item>克州</item>
+        <item>奎屯</item>
+        <item>石河子</item>
+        <item>塔城</item>
+        <item>吐鲁番</item>
+        <item>伊犁</item>
+    </string-array>
+    <string-array name="security_yunnan_province">
+        <item>Выберите область</item>
+        <item>昆明</item>
+        <item>保山</item>
+        <item>楚雄</item>
+        <item>大理</item>
+        <item>德宏</item>
+        <item>迪庆</item>
+        <item>红河</item>
+        <item>丽江</item>
+        <item>临沧</item>
+        <item>怒江</item>
+        <item>普洱/思茅</item>
+        <item>曲靖</item>
+        <item>文山</item>
+        <item>版纳</item>
+        <item>玉溪</item>
+        <item>昭通</item>
+    </string-array>
+    <string-array name="security_zhejiang_province">
+        <item>Выберите область</item>
+        <item>杭州</item>
+        <item>湖州</item>
+        <item>嘉兴</item>
+        <item>金华</item>
+        <item>丽水</item>
+        <item>宁波</item>
+        <item>衢州</item>
+        <item>绍兴</item>
+        <item>台州</item>
+        <item>温州</item>
+        <item>舟山</item>
+    </string-array>
+    <string-array name="lowpower_dialog_items_display">
+        <item>2%</item>
+        <item>5%</item>
+        <item>7%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>25%</item>
+        <item>30%</item>
+    </string-array>
+    <string-array name="lowpower_dialog_items_value">
+        <item>2</item>
+        <item>5</item>
+        <item>7</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="lowpower_dialog_mode_items_display">
+        <item>Экономия</item>
+        <item>Долгожитель</item>
+    </string-array>
+    <string-array name="lowpower_dialog_mode_items_value">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="screen_off_time">
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>30 мин.</item>
+        <item>Никогда</item>
+    </string-array>
+    <integer-array name="screen_off_time_value">
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
+        <item>360000000</item>
+    </integer-array>
+    <integer-array name="battery_info">
+        <item>1800</item>
+        <item>265</item>
+        <item>248</item>
+        <item>201</item>
+        <item>143</item>
+        <item>186</item>
+        <item>301</item>
+        <item>330</item>
+    </integer-array>
+    <integer-array name="battery_percent_time">
+        <item>212454</item>
+        <item>200000</item>
+    </integer-array>
+    <string-array name="close_apn_time">
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>3 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+    </string-array>
+    <integer-array name="battery_display_length">
+        <item>255</item>
+    </integer-array>
+    <string-array name="cpu_dialog_items_display">
+        <item>Закрыть</item>
+        <item>Старт при низком заряде</item>
+        <item>Держать открытым</item>
+    </string-array>
+    <integer-array name="cpu_dialog_items_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="security_savepower_time_type">
+        <item>Вызов</item>
+        <item>Передача данных</item>
+        <item>Интернет по Wi-Fi</item>
+        <item>Кино</item>
+        <item>Музыка</item>
+        <item>Навигация по GPS</item>
+        <item>2D-игры</item>
+        <item>3D-игры</item>
+        <item>Чтение книг</item>
+        <item>Онлайн-игры</item>
+        <item>Изображения</item>
+        <item>Камера</item>
+    </string-array>
+    <string-array name="security_check_regular">
+        <item>Ежедневно</item>
+        <item>Еженедельно</item>
+        <item>Без проверки по расписанию</item>
+    </string-array>
+    <string-array name="security_check_week">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+    <string-array name="security_switch_check">
+        <item>Выкл.</item>
+        <item>Вкл.</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="security_datapretend_contacts_name">
+        <item>Горячая линия CoolUI</item>
+        <item>Горячая линия Coolpad</item>
+        <item>Горячая линия Okami</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="security_datapretend_sms_info">
+        <item>Горячая линия CoolUI</item>
+        <item>Горячая линия Coolpad</item>
+        <item>Горячая линия Okami</item>
+    </string-array>
+
+
+
+
+
+    <integer-array name="SECURITY_BASIC_FONT_SIZE_ARRAY">
+        <item>24</item>
+        <item>20</item>
+        <item>18</item>
+        <item>16</item>
+        <item>14</item>
+        <item>12</item>
+    </integer-array>
+    <string-array name="week_strings">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+    <string-array name="weeks_string">
+        <item>" "</item>
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+</resources>
