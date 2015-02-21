@@ -93,7 +93,7 @@
         <item>Можно легко создать бэкап всех локальных закладок и истории посещений</item>
     </string-array>
     <string-array name="browser_browser_about">
-        <item>"Версия (перевод ViNNNtalik): "</item>
+        <item>"Версия (сборка greeshan): "</item>
         <item>"Версия Webkit: "</item>
         <item>"История изменений: "</item>
     </string-array>

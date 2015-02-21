@@ -252,7 +252,7 @@
     <string name="mmmusic_msg_not_toast_again">Больше не показывать</string>
     <string name="music_downloadpath_sizetip">(всего %1$s, своб. %2$s)</string>
     <string name="version_name">"Версия: "</string>
-    <string name="develop_team">Разработчик Coolpad, перевод ViNNNtalik</string>
+    <string name="develop_team">Разработчик Coolpad, сборка greeshan</string>
     <string name="setting_notexist_external">Нет SD-карты, используется внутр.хранилище</string>
     <string name="minutes">минут</string>
 

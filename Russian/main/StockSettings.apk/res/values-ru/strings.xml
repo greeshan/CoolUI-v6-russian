@@ -48,7 +48,7 @@
     <string name="quick_restart_title">Перезагрузка</string>
     <string name="quick_restart_summary">Быстрая перезагрузка устройства</string>
     <string name="author_title">Автор： MCXZ</string>
-    <string name="author_summary">Перевод, доработка и доведение до толка: ViNNNtalik</string>
+    <string name="author_summary">Сборка: greeshan</string>
     <string name="miuisettings">Строка состояния</string>
     <string name="custom_carrier_mtk_dualsim">Пользовательское имя оператора</string>
     <string name="custom_carrier_1">SIM1</string>

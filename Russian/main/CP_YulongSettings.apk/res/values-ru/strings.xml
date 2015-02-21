@@ -318,7 +318,7 @@
     <string name="no_activity_found">Приложение не установлено</string>
     <string name="phoneinfo_settings">Конфигурация устройства</string>
     <string name="charge_mode_settings">Управление зарядкой</string>
-    <string name="model_number">Модель (перевод ViNNNtalik)</string>
+    <string name="model_number">Модель (сборка greeshan)</string>
     <string name="firmware_version">Версия Android</string>
     <string name="kernel_version">Ядро</string>
     <string name="build_number">Сборка</string>

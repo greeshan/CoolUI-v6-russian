@@ -363,7 +363,7 @@
     <string name="preferences_home_tz_title">Мой часовой пояс</string>
 
     <string name="preferences_about_title">О программе</string>
-    <string name="preferences_build_version">Версия сборки (перевод ViNNNtalik)</string>
+    <string name="preferences_build_version">Версия сборки (сборка greeshan)</string>
     <string name="app_name">Новый календарь</string>
     <string name="msg_attendees">SMS/MMS</string>
     <string name="email_attendees">Эл.письмо</string>

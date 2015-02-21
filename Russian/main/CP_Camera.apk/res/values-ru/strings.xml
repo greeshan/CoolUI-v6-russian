@@ -941,12 +941,12 @@
     <string name="show_dialog">Больше не показывать</string>
     <string name="camera_security_hint_title">Добро пожаловать в Камеру  Coolpad</string>
     <string name="not_allow_record">Запись невозможна во время разговора</string>
-    <string name="about">О приложении (перевод ViNNNtalik)</string>
+    <string name="about">О приложении (сборка greeshan)</string>
     <string name="about_title">Камера</string>
     <string name="about_cool_small_title">Камера Coolpad</string>
     <string name="about_cool_title">Камера Coolpad</string>
     <string name="about_ver_code">Версия:%1$s</string>
-    <string name="about_developers">Разработано Coolpad. Перевод ViNNNtalik</string>
+    <string name="about_developers">Разработано Coolpad. Сборка greeshan</string>
     <string name="one_key_share">Поделиться</string>
     <string name="network_not_avaliable">Сеть недоступна</string>
     <string name="exit_camera">Нажмите еще раз для выхода</string>

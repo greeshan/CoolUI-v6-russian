@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ATX Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="atx_settings">ATX Settings</string>
+    <string name="battery_percent">Battery Percent</string>
+    <string name="battery_percent_summary">Show Battery Percent</string>
+    <string name="power_saving_on_title">Save mobile data connection</string>
+    <string name="power_saving_on_summary">allow to tear down mobile data connection when device is idle</string>
+    <string name="project_menu">Project Menu</string>
+    <string name="fast_power_on_title">Fast boot</string>
+    <string name="fast_power_on_summary">Allow device into a deep sleep in order to fast power on</string>
+    <string name="listview_animation_title">ListView Animation</string>
+    <string name="listview_off">Off</string>
+    <string name="listview_wave_left">Wave (Left)</string>
+    <string name="listview_wave_right">Wave (Right)</string>
+    <string name="listview_alpha">Alpha</string>
+    <string name="listview_scale">Scale</string>
+    <string name="listview_stack_top">Stack (Top)</string>
+    <string name="listview_stack_bottom">Stack (Bottom)</string>
+    <string name="listview_unfold">Unfold</string>
+    <string name="listview_fold">Fold</string>
+    <string name="listview_translate_left">Translate (Left)</string>
+    <string name="listview_translate_right">Translate (Right)</string>
+    <string name="listview_interpolator_title">ListView Interpolator</string>
+    <string name="listview_accelerate_interpolator">accelerate_interpolator</string>
+    <string name="listview_decelerate_interpolator">decelerate_interpolator</string>
+    <string name="listview_accelerate_decelerate_interpolator">accelerate_decelerate_interpolator</string>
+    <string name="listview_anticipate_interpolator">anticipate_interpolator</string>
+    <string name="listview_overshoot_interpolator">overshoot_interpolator</string>
+    <string name="listview_anticipate_overshoot_interpolator">anticipate_overshoot_interpolator</string>
+    <string name="listview_bounce_interpolator">bounce_interpolator</string>
+    <string name="huawei_lockscreen_summary">Use huawei lockscreen</string>
+    <string name="huawei_lockscreen_title">Lock Screen</string>
+    <string name="google_lockscreen_summary">Use google lockscreen</string>
+    <string name="crack_gsm_data_title">Enable Gsm Data</string>
+    <string name="enable_gsm_ct_summary">Enable gsm data</string>
+    <string name="disable_gsm_ct_summary">Disable gsm data</string>
+    <string name="reboot_toast">"Now you can use gsm data, it's will lose efficacy when reboot..."</string>
+    <string name="enter_projectmenu">Enter project menu</string>
+    <string name="gf_title">Google Framework</string>
+    <string name="unstall_gf_summary">Unstall google framework</string>
+    <string name="install_gf_summary">Install google framework</string>
+    <string name="power_ringtone_title">Boot mute</string>
+    <string name="power_ringtone_summary">Delete ringtone when boot</string>
+    <string name="preference_general_title">General Settings</string>
+    <string name="preference_display_title">Display Settings</string>
+    <string name="preferences_appinfo_title">Application Info</string>
+    <string name="status_bar_settings_title">Status Bar Settings</string>
+    <string name="show_network_speed_title">Speed switch</string>
+    <string name="pmqos_menu_title">Performance</string>
+    <string name="pmqos_menu_summary">Performance settings</string>
+    <string name="performance_set_thermal">Set Thermal</string>
+    <string name="thermal_on_summary">Thermal Mode is on,the manual MAX-Frequency is not avaliable</string>
+    <string name="thermal_off_summary">manual MAX-Frequency is OK,now you can change the Max-Frequency manually.</string>
+    <string name="app_ver">ATX Advance Tools v0.4</string>
+    <string name="app_copyright">"Author: ZJL@ATX
+Author Weibo: http://weibo.com/u/2517929474
+ATX Team Weibo: http://e.weibo.com/anzhiatx"</string>
+</resources>

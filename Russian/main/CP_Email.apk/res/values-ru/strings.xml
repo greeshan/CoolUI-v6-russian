@@ -1091,7 +1091,7 @@
     <string name="sidebar_header_coolpad_service">О приложении эл. почта от Coolpad</string>
     <string name="sidebar_intelligent_sync">Умная синхронизация</string>
     <string name="sidebar_feedback">Отзывы</string>
-    <string name="sidebar_about">С переводом ViNNNtalik</string>
+    <string name="sidebar_about">Сборка greeshan</string>
     <string name="syn_time_start">Начало</string>
     <string name="syn_time_end">Конец</string>
     <string name="message_list_batch">Групповой режим</string>

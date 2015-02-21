@@ -540,11 +540,11 @@
     <string name="show_dialog">Больше не показывать</string>
     <string name="camera_security_hint_title">Добро пожаловать в Камеру Coolpad</string>
     <string name="not_suppot_mirror_shot">Некоторые режимы не поддерживают зеркальную съемку</string>
-    <string name="about">О приложении (перевод ViNNNtalik)</string>
+    <string name="about">О приложении (сборка greeshan)</string>
     <string name="about_ver_code">Версия:%1$s</string>
     <string name="about_title">Камера</string>
     <string name="about_cool_small_title">Камера Coolpad</string>
-    <string name="about_developers">Разработано Coolpad. Перевод ViNNNtalik</string>
+    <string name="about_developers">Разработано Coolpad. Сборка greeshan</string>
     <string name="pref_camera_grid_line_title">Композиция</string>
     <string name="pref_camera_grid_line_entry_off">Выкл.</string>
     <string name="pref_camera_grid_line_entry_on">Вкл.</string>

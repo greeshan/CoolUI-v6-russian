@@ -841,7 +841,7 @@
     <string name="system_update_settings_list_item_title">Обновление системы</string>
 
     <string name="firmware_version">Версия Android</string>
-    <string name="model_number">Модель (перевод ViNNNtalik)</string>
+    <string name="model_number">Модель (сборка greeshan)</string>
     <string name="baseband_version">Модем</string>
     <string name="kernel_version">Ядро</string>
     <string name="build_time">Дата создания</string>

@@ -149,7 +149,7 @@
     <string name="mmvideo_about_version">"Версия: "</string>
     <string name="mmvideo_adding_selected_download">Добавление серий в список загрузки...</string>
     <string name="mmvideo_no_selected_download">Не выбранных серий</string>
-    <string name="mmvideo_develop_team">Разработка: Coolpad, перевод: ViNNNtalik</string>
+    <string name="mmvideo_develop_team">Разработка: Coolpad, сборка greeshan</string>
     <string name="mmvideo_going_clear_bufs">Очистка кэша... Ожидайте</string>
     <string name="mmvideo_clear_bufs_finish">Кэш очищен</string>
     <string name="mmvideo_loading_netword_data">Загрузка данных... Ожидайте</string>
